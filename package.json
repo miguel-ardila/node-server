@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "lista-de-tareas-npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-ardila/node-server.git"
+  },
+  "keywords": [
+    "javascirpt",
+    "npm"
+  ],
+  "author": "Miguel-Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-ardila/node-server/issues"
+  },
+  "homepage": "https://github.com/miguel-ardila/node-server#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
