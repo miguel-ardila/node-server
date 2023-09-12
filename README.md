@@ -17,6 +17,8 @@ Sigue estos pasos para utilizar la aplicación:
 ¡Eres bienvenido(a) a contribuir a este proyecto! Si tienes ideas para mejorar la aplicación, puedes abrir un issue o enviar un pull request.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+
+Este proyecto está bajo la [Licencia MIT](LICENSE). Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
 
  
