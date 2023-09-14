@@ -1,6 +1,3 @@
-const readline = require('readline');
+const {initUI} = require('./modules/punto-de-entrada');
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
+initUI();
